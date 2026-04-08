@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60">
-  <circle cx="25" cy="20" r="12" fill="#7B2D8E"/>
-  <path d="M20,18 Q30,10 35,20" stroke="#7B2D8E" stroke-width="3" fill="none"/>
-  <text x="50" y="45" font-family="Arial, sans-serif" font-size="32" fill="#4A4A4A" letter-spacing="4">SENDERO</text>
-</svg>
