@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const heroIndicators = document.getElementById('heroIndicators');
   if (heroBg) {
     const slides = [
-      'assets/images/exec-group.jpg',
+      'assets/images/foster-exterior.png',
       'assets/images/foster-interior.png'
     ];
     let currentSlide = 0;
