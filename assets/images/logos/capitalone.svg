@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60">
-  <text x="0" y="50" font-family="Arial,sans-serif" font-size="40" font-weight="bold" font-style="italic" fill="#004879">Capital</text>
-  <text x="155" y="50" font-family="Arial,sans-serif" font-size="40" font-weight="400" font-style="italic" fill="#004879">One</text>
-  <path d="M200,5 Q240,0 260,5 Q280,10 260,15" fill="#D22F2F" stroke="none"/>
-</svg>
