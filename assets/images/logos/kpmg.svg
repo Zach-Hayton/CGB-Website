@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50">
+  <rect x="0" y="5" width="38" height="40" fill="#00338D"/>
+  <rect x="42" y="5" width="38" height="40" fill="#00338D"/>
+  <rect x="84" y="5" width="38" height="40" fill="#00338D"/>
+  <rect x="126" y="5" width="38" height="40" fill="#00338D"/>
+  <text x="5" y="37" font-family="Arial,sans-serif" font-size="30" font-weight="bold" font-style="italic" fill="#FFFFFF">KPMG</text>
+</svg>
